@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Firebase project details -->
+    <string name="google_api_key">AIzaSyDBrdS3lV0e0TQcmJZP24ijvFeG0W0JmJE</string>
+    <string name="google_app_id">1:358036820447:android:a8739da91a123cfc70746a</string>
+    <string name="firebase_database_url">https://flash-chat-a66ae.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">358036820447</string>
+    <string name="project_id">flash-chat-a66ae</string>
+    <string name="storage_bucket">flash-chat-a66ae.appspot.com</string>
+</resources>
